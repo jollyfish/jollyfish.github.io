@@ -1,0 +1,190 @@
+body{
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+}
+
+.navbar{
+  margin: 0 auto;
+  background-color: #7ba5ad;
+  border-color: #7caab2;
+  border-radius: 0%;
+}
+
+.navbar-default .navbar-nav>li>a{
+  color: white;
+}
+
+.navbar-nav{
+  float: right;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.navbar-brand{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-brand{
+  color: white;
+}
+
+.navbar-default{
+  padding-bottom: 10px;
+}
+
+ .jumbotron{
+   background-image: url(img/jumbo-bg.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   margin-top: 100px;
+   margin-bottom: 100px;
+   height: 350px;
+   color: lightgray;
+ }
+
+ .jumbotron h1{
+   text-align: center;
+   font-family: 'Barrio', cursive;
+   font-size: 50px;
+   font-weight: bold;
+   padding-top: 50px;
+ }
+
+.logos{
+  text-align: center;
+}
+
+.ifont{
+color: lightgray;
+font-size: 50px;
+margin-left: 5px;
+}
+
+ .about{
+   text-align: center;
+   height: 500px;
+ }
+
+
+.imgdisplay{
+  height: 250px;
+  width: 250px;
+  border-radius: 35%;
+}
+
+
+.media-heading{
+  color: #7ba5ad;
+  font-size: 40px;
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+ #profile{
+   width: 30%;
+   height: 200px;
+   border-radius: 60%;
+ }
+
+ hr.style-two {
+     border: 0;
+     height: 1px;
+     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+ }
+
+.blog{
+  text-align: center;
+}
+
+#blogbutton{
+margin-top: 220px;
+font-size: 25px;
+font-weight: 800;
+background-color: #7ba5ad;
+color: white;
+border-color: #7caab2;
+border-radius: 5%;
+}
+
+#blog{
+  height: 500px;
+  width: 100% 100%;
+  background: #c2e59c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #c2e59c , #64b3f4); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #c2e59c , #64b3f4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#contact-title{
+  font-size: 40px;
+  font-weight: 800;
+  color: #7ba5ad;
+  text-decoration: underline;
+}
+
+.kleur{
+  font-size: 20px;
+  color: #7ba5ad;
+}
+
+.borders{
+  border-color: #7caab2;
+}
+
+.navbar-bottom{
+  height: 25%;
+  background-color: #7ba5ad;
+  margin-top: 100px;
+  color: white;
+  font-size: 20px;
+}
+
+
+#navbar-text{
+  text-align: center;
+  color:white;
+}
+
+.grotepagina{
+  height: 500px;
+  text-align: center;
+}
+.grootepagina ul{
+  list-style-type: none;
+}
+
+.tekstintro{
+  font-size: 30px;
+  text-align: center;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-link {
+    display: block;
+    font-size: 25px;
+}
+
+.post-meta {
+    font-size: 15px;
+    color: grey;
+}
+.pull-left{
+  text-align: left;
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.footer-text{
+  text-align: center;
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+  {% include head.html %}
+
+  </head>
+  <body>
+
+    {% include nav.html %}
+    {% include jumbotron.html %}
+      <div class="container textfont">
+      {{ content }}
+    </div>
+    {% include foot.html %}
+
+  </body>
+
+</html>
