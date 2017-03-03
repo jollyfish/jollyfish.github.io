@@ -1,10 +1,11 @@
 ---
+title: Welcome to Jekyll!
+date: 2017-02-05 19:36:37 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-02-05 20:36:37 +0100
-categories: jekyll update
 ---
-
 
 Spicy jalapeno bacon ipsum dolor amet tenderloin porchetta tri-tip pastrami pancetta venison rump meatloaf, pork loin spare ribs meatball. Andouille corned beef capicola porchetta pancetta cow swine short loin pork belly. Cupim pork loin ribeye ball tip capicola beef andouille pork swine alcatra short ribs. Beef ribs cow bresaola kevin filet mignon. Andouille salami filet mignon ground round. Ribeye doner chuck, chicken burgdoggen kielbasa capicola turducken pork chop beef. Picanha cupim chuck ribeye, tail swine spare ribs leberkas bresaola cow sirloin doner turkey capicola tri-tip.
 

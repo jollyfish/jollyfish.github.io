@@ -1,7 +1,8 @@
 ---
-layout: default
 title: blog
+layout: default
 ---
+
 <div class="container">
 <h1 class="post-title">Welkom bij mijn blog</h1>
 <div class="home pull-left">
